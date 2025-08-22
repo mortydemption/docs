@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Leica Geosystems",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#ED1A36",
     "light": "#07C983",
     "dark": "#15803D"
   },
